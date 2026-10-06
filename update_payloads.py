@@ -159,7 +159,7 @@ If you have suggestions for a new payload to be added or if there's an important
 
 
 def get_mirror_assets():
-    owner = "itsPLK"
+    owner = "miraficus"
     repo = "ps5-payloads-mirror"
     try:
         cmd = ["gh", "api", f"repos/{owner}/{repo}/releases/tags/payloads-mirror"]
@@ -173,7 +173,7 @@ def get_mirror_assets():
 
 def cleanup_and_record_stats():
     print("\nChecking for stale release assets to record stats and clean up...")
-    owner = "itsPLK"
+    owner = "miraficus"
     repo = "ps5-payloads-mirror"
     
     try:
