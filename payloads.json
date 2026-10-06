@@ -1,6 +1,6 @@
 [
   {
-    "name": "PS5SX2 Helper",
+    "name": "PS5SX2-Helper",
     "filename": "PS5SX2 Helper_vk-285-130.elf",
     "url": "https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/PS5SX2 Helper_vk-285-130.elf",
     "source": "https://github.com/Swordpdf/PS5SX2/releases",
@@ -12,7 +12,7 @@
     "checksum": "737d95a8a1545447c4166b094005704465e420f79f54e882e30e7f9e4cde6210"
   },
   {
-    "name": "PS5SX2 Installer",
+    "name": "PS5SX2-Installer",
     "filename": "PS5SX2 Installer_vk-285-130.elf",
     "url": "https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/PS5SX2 Installer_vk-285-130.elf",
     "source": "https://github.com/Swordpdf/PS5SX2/releases",
@@ -24,7 +24,7 @@
     "checksum": "6b1be3ea24ec8144b27b2a1f3e279cd17574f3093e9431abf8579dcc6c0bfae9"
   },
   {
-    "name": "PoorDS4 Bridge",
+    "name": "PoorDS4-Bridge",
     "filename": "PoorDS4 Bridge_v0.1.0-rc51.elf",
     "url": "https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/PoorDS4 Bridge_v0.1.0-rc51.elf",
     "source": "https://github.com/ItsBlurf/PoorDS4/releases",
@@ -37,7 +37,7 @@
     "checksum": "e1b9f257f51678a977edaeafd4ca1f8a03e9df0afda7d5dd84435841fa20795d"
   },
   {
-    "name": "PoorDS4 Status",
+    "name": "PoorDS4-Status",
     "filename": "PoorDS4 Status_v0.1.0-rc51.elf",
     "url": "https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/PoorDS4 Status_v0.1.0-rc51.elf",
     "source": "https://github.com/ItsBlurf/PoorDS4/releases",
@@ -49,7 +49,7 @@
     "checksum": "d47bb84a6ae05117f095c05b75dfee15d9fbf07864a3e52d0e2e626eab613440"
   },
   {
-    "name": "PoorDS4 Stop",
+    "name": "PoorDS4-Stop",
     "filename": "PoorDS4 Stop_v0.1.0-rc51.elf",
     "url": "https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/PoorDS4 Stop_v0.1.0-rc51.elf",
     "source": "https://github.com/ItsBlurf/PoorDS4/releases",
@@ -61,7 +61,7 @@
     "checksum": "ffdce4964f0d34a2b9be7cb65e6ad345d5beb582dcdf94d0214cde6bc79acd0d"
   },
   {
-    "name": "Game Compressor",
+    "name": "Game-Compressor",
     "filename": "Game Compressor_v0.5.2.elf",
     "url": "https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/Game Compressor_v0.5.2.elf",
     "source": "https://github.com/itsplk/ps5-payload-manager/releases",
@@ -73,7 +73,7 @@
     "checksum": "62b3ba2a4937c2afc502f9a4e7242cca538610ebb4ae2800c7c6f72e7f268e7c"
   },
   {
-    "name": "ELF Arsenal",
+    "name": "ELF-Arsenal",
     "filename": "ELF Arsenal_v1.6.23.elf",
     "url": "https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/ELF Arsenal_v1.6.23.elf",
     "source": "https://git.etawen.dev/soniciso/elf-arsenal/releases",
