@@ -58,4 +58,61 @@
       "category": "Utilities & Tools"
     }
   ]
-}
+}[
+  {
+    "name": "PoorDS4 Bridge",
+    "filename": "PoorDS4.elf",
+    "source": "https://github.com/ItsBlurf/PoorDS4/releases",
+    "asset_pattern": "PoorDS4rc.*\\.elf",
+    "description": "Main automatic wireless DS4 bridge payload for native PS5 games.",
+    "category": "Utilities & Tools"
+  },
+  {
+    "name": "PoorDS4 Status",
+    "filename": "PoorDS4-status.elf",
+    "source": "https://github.com/ItsBlurf/PoorDS4/releases",
+    "source_direct": "https://github.com/ItsBlurf/PoorDS4/releases/latest/download/PoorDS4-status.elf",
+    "description": "Read-only bridge status snapshot utility.",
+    "category": "Utilities & Tools"
+  },
+  {
+    "name": "PoorDS4 Stop",
+    "filename": "PoorDS4-stop.elf",
+    "source": "https://github.com/ItsBlurf/PoorDS4/releases",
+    "source_direct": "https://github.com/ItsBlurf/PoorDS4/releases/latest/download/PoorDS4-stop.elf",
+    "description": "Cooperative stop utility for clean shutdown of PoorDS4.",
+    "category": "Utilities & Tools"
+  },
+  {
+    "name": "ELF Arsenal",
+    "filename": "elf_arsenal.elf",
+    "source": "https://git.etawen.dev/soniciso/elf-arsenal/releases",
+    "source_direct": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/latest/elf_arsenal.elf",
+    "description": "A collection of versatile tools and utilities for PS5 payload management.",
+    "category": "System & Jailbreak"
+  },
+  {
+    "name": "PS5SX2 Helper",
+    "filename": "PS5SX2Helper.elf",
+    "source": "https://github.com/Swordpdf/PS5SX2/releases",
+    "source_direct": "https://github.com/Swordpdf/PS5SX2/releases/latest/download/PS5SX2Helper.elf",
+    "description": "Helper script to launch and run the PS5SX2 emulator.",
+    "category": "Emulators"
+  },
+  {
+    "name": "PS5SX2 Installer",
+    "filename": "PS5SX2Installer.elf",
+    "source": "https://github.com/Swordpdf/PS5SX2/releases",
+    "source_direct": "https://github.com/Swordpdf/PS5SX2/releases/latest/download/PS5SX2Installer.elf",
+    "description": "Installer and auto-updater for the PS5SX2 emulator.",
+    "category": "Emulators"
+  },
+  {
+    "name": "Game Compressor",
+    "filename": "game_compressor.elf",
+    "source": "https://github.com/itsplk/ps5-payload-manager/releases",
+    "source_direct": "https://github.com/itsplk/ps5-payload-manager/releases/latest/download/game_compressor.elf",
+    "description": "Utility to compress PS5 games directly on the console.",
+    "category": "Utilities & Tools"
+  }
+]
