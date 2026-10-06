@@ -2,7 +2,7 @@
   {
     "name": "PS5SX2 Helper",
     "filename": "PS5SX2 Helper_vk-285-130.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/PS5SX2 Helper_vk-285-130.elf",
+    "url": "https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/PS5SX2 Helper_vk-285-130.elf",
     "source": "https://github.com/Swordpdf/PS5SX2/releases",
     "source_direct": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-130/PS5SXHelper.elf",
     "description": "Helper script to launch and run the PS5SX2 emulator.",
@@ -14,7 +14,7 @@
   {
     "name": "PS5SX2 Installer",
     "filename": "PS5SX2 Installer_vk-285-130.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/PS5SX2 Installer_vk-285-130.elf",
+    "url": "https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/PS5SX2 Installer_vk-285-130.elf",
     "source": "https://github.com/Swordpdf/PS5SX2/releases",
     "source_direct": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-130/PS5SX2Installer.elf",
     "description": "Installer and auto-updater for the PS5SX2 emulator.",
@@ -26,7 +26,7 @@
   {
     "name": "PoorDS4 Bridge",
     "filename": "PoorDS4 Bridge_v0.1.0-rc51.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/PoorDS4 Bridge_v0.1.0-rc51.elf",
+    "url": "https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/PoorDS4 Bridge_v0.1.0-rc51.elf",
     "source": "https://github.com/ItsBlurf/PoorDS4/releases",
     "source_direct": "https://github.com/ItsBlurf/PoorDS4/releases/download/v0.1.0-rc51/PoorDS4rc51.elf",
     "asset_pattern": "PoorDS4rc.*\\.elf",
@@ -39,7 +39,7 @@
   {
     "name": "PoorDS4 Status",
     "filename": "PoorDS4 Status_v0.1.0-rc51.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/PoorDS4 Status_v0.1.0-rc51.elf",
+    "url": "https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/PoorDS4 Status_v0.1.0-rc51.elf",
     "source": "https://github.com/ItsBlurf/PoorDS4/releases",
     "source_direct": "https://github.com/ItsBlurf/PoorDS4/releases/download/v0.1.0-rc51/PoorDS4-status.elf",
     "description": "Read-only bridge status snapshot utility.",
@@ -51,7 +51,7 @@
   {
     "name": "PoorDS4 Stop",
     "filename": "PoorDS4 Stop_v0.1.0-rc51.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/PoorDS4 Stop_v0.1.0-rc51.elf",
+    "url": "https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/PoorDS4 Stop_v0.1.0-rc51.elf",
     "source": "https://github.com/ItsBlurf/PoorDS4/releases",
     "source_direct": "https://github.com/ItsBlurf/PoorDS4/releases/download/v0.1.0-rc51/PoorDS4-stop.elf",
     "description": "Cooperative stop utility for clean shutdown of PoorDS4.",
@@ -63,7 +63,7 @@
   {
     "name": "Game Compressor",
     "filename": "Game Compressor_v0.5.2.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/Game Compressor_v0.5.2.elf",
+    "url": "https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/Game Compressor_v0.5.2.elf",
     "source": "https://github.com/itsplk/ps5-payload-manager/releases",
     "source_direct": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.5.2/pldmgr_v0.5.2.elf",
     "description": "Utility to compress PS5 games directly on the console.",
@@ -75,7 +75,7 @@
   {
     "name": "ELF Arsenal",
     "filename": "ELF Arsenal_v1.6.23.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ELF Arsenal_v1.6.23.elf",
+    "url": "https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/ELF Arsenal_v1.6.23.elf",
     "source": "https://git.etawen.dev/soniciso/elf-arsenal/releases",
     "source_direct": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.23/elf-arsenal.elf",
     "description": "A collection of versatile tools and utilities for PS5 payload management.",
