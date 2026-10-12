@@ -12,18 +12,6 @@
     "checksum": "3420cdb5c826014b22b8ca8fa60a2026f0d9f91d3f5a5b818d4c98373eccb123"
   },
   {
-    "name": "PS5SX2-Installer",
-    "filename": "PS5SX2-Installer_vk-285-163.elf",
-    "url": "https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/PS5SX2-Installer_vk-285-163.elf",
-    "source": "https://github.com/Swordpdf/PS5SX2/releases",
-    "source_direct": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-163/ps5sx2-bot.elf",
-    "description": "Installer and auto-updater for the PS5SX2 emulator.",
-    "last_update": "2026-10-11",
-    "version": "vk-285-163",
-    "category": "Emulators",
-    "checksum": "3420cdb5c826014b22b8ca8fa60a2026f0d9f91d3f5a5b818d4c98373eccb123"
-  },
-  {
     "name": "PoorDS4-Bridge",
     "filename": "PoorDS4-Bridge_v0.1.0-rc51.elf",
     "url": "https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/PoorDS4-Bridge_v0.1.0-rc51.elf",
@@ -63,14 +51,14 @@
   {
     "name": "Game-Compressor",
     "filename": "Game-Compressor_v0.5.2.elf",
-    "url": "https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/Game-Compressor_v0.5.2.elf",
-    "source": "https://github.com/itsplk/ps5-payload-manager/releases",
-    "source_direct": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.5.2/pldmgr_v0.5.2.elf",
+    "url": "",
+    "source": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases",
+    "source_direct": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases/download/v1.0.3/game-compressor.elf",
     "description": "Utility to compress PS5 games directly on the console.",
-    "last_update": "2026-09-29",
-    "version": "v0.5.2",
+    "last_update": "",
+    "version": "",
     "category": "Utilities & Tools",
-    "checksum": "62b3ba2a4937c2afc502f9a4e7242cca538610ebb4ae2800c7c6f72e7f268e7c"
+    "checksum": ""
   },
   {
     "name": "ELF-Arsenal",
