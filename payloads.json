@@ -1,5 +1,17 @@
 [
   {
+    "name": "PS5SX2-Helper",
+    "filename": "PS5SX2-Helper_vk-285-182.elf",
+    "url": "https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/PS5SX2-Helper_vk-285-182.elf",
+    "source": "https://github.com/Swordpdf/PS5SX2/releases",
+    "source_direct": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-182/PS5SXHelper.elf",
+    "description": "Helper script to launch and run the PS5SX2 emulator.",
+    "last_update": "2026-10-30",
+    "version": "vk-285-182",
+    "category": "Emulators",
+    "checksum": "fece3ee9c7e035c51319af018ae6865f0bf5db182074dafd0502c3bb2d5ee7d2"
+  },
+  {
     "name": "PoorDS4-Status",
     "filename": "PoorDS4-Status_v0.2.0.elf",
     "url": "https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/PoorDS4-Status_v0.2.0.elf",
@@ -22,18 +34,6 @@
     "version": "v0.2.0",
     "category": "Utilities & Tools",
     "checksum": "fab1ad04daf8346e5952c115f3a08621598d29e222ff80e328a14e73a0f968c8"
-  },
-  {
-    "name": "PS5SX2-Helper",
-    "filename": "PS5SX2-Helper_vk-285-177.elf",
-    "url": "https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/PS5SX2-Helper_vk-285-177.elf",
-    "source": "https://github.com/Swordpdf/PS5SX2/releases",
-    "source_direct": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-177/PS5SXHelper.elf",
-    "description": "Helper script to launch and run the PS5SX2 emulator.",
-    "last_update": "2026-10-19",
-    "version": "vk-285-177",
-    "category": "Emulators",
-    "checksum": "f7960126abe5ad30869fbe01235fecf2bfac71bd90ee3b9c9eb22810b699e736"
   },
   {
     "name": "PoorDS4-Bridge",
