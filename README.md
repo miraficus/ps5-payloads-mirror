@@ -7,7 +7,7 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 <!-- PAYLOADS_START -->
 | Payload | Version | Description | Last Updated | Source | Download |
 | --- | --- | --- | --- | --- | --- |
-| **PS5SX2-Helper** | `vk-285-187` | Helper script to launch and run the PS5SX2 emulator. | `2026-11-03` | [Source](https://github.com/Swordpdf/PS5SX2/releases) | [Download](https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/PS5SX2-Helper_vk-285-187.elf) |
+| **PS5SX2-Helper** | `vk-285-190` | Helper script to launch and run the PS5SX2 emulator. | `2026-11-05` | [Source](https://github.com/Swordpdf/PS5SX2/releases) | [Download](https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/PS5SX2-Helper_vk-285-190.elf) |
 | **PoorDS4-Status** | `v0.2.0` | Read-only bridge status snapshot utility. | `2026-10-21` | [Source](https://github.com/ItsBlurf/PoorDS4/releases) | [Download](https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/PoorDS4-Status_v0.2.0.elf) |
 | **PoorDS4-Stop** | `v0.2.0` | Cooperative stop utility for clean shutdown of PoorDS4. | `2026-10-21` | [Source](https://github.com/ItsBlurf/PoorDS4/releases) | [Download](https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/PoorDS4-Stop_v0.2.0.elf) |
 | **PoorDS4-Bridge** | `v0.1.0-rc51` | Main automatic wireless DS4 bridge payload for native PS5 games. | `2026-09-30` | [Source](https://github.com/ItsBlurf/PoorDS4/releases) | [Download](https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/PoorDS4-Bridge_v0.1.0-rc51.elf) |

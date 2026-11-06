@@ -1,13 +1,13 @@
 [
   {
     "name": "PS5SX2-Helper",
-    "filename": "PS5SX2-Helper_vk-285-187.elf",
-    "url": "https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/PS5SX2-Helper_vk-285-187.elf",
+    "filename": "PS5SX2-Helper_vk-285-190.elf",
+    "url": "https://github.com/miraficus/ps5-payloads-mirror/releases/download/payloads-mirror/PS5SX2-Helper_vk-285-190.elf",
     "source": "https://github.com/Swordpdf/PS5SX2/releases",
-    "source_direct": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-187/PS5SXHelper.elf",
+    "source_direct": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-190/PS5SXHelper.elf",
     "description": "Helper script to launch and run the PS5SX2 emulator.",
-    "last_update": "2026-11-03",
-    "version": "vk-285-187",
+    "last_update": "2026-11-05",
+    "version": "vk-285-190",
     "category": "Emulators",
     "checksum": "e98906788909cab909f22b75fedbeeb8d41a1adb49166e92d98b3f7536c8a2cd"
   },
